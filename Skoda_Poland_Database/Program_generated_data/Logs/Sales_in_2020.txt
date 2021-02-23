@@ -1,0 +1,10 @@
+ENYAQ iV,27
+Octavia,18400
+superb,3927
+CITIGOe iV,648
+Kamiq,5854
+Scala,2879
+Fabia,12136
+Karoq,6251
+Kodiaq,5995
+

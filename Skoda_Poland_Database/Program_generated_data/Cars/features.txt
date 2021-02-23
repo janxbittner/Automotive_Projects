@@ -1,0 +1,5 @@
+Sunroof,600
+Backup camera,150
+Navigation system,500
+Blind spot monitoring,250
+Apple CarPlay/Android Auto,120

@@ -1,0 +1,10 @@
+Ordered, Dealership made the order for a car
+Production Week Assigned, Knew production date
+Production Started, Car begin produced
+Production Completed, Car is produced
+Waiting for Export, Preparing to transport
+In transit to the destination country, Car in a way to destination country
+On stocks,  Car in the destination country waiting to transport to dealership
+In transit to the dealership, In transport between logistic center to target dealership
+In the dealership, Waiting for a sale
+Completed, Car was sold 

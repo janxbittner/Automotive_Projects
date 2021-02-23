@@ -1,0 +1,7 @@
+white,0
+blue,0
+red,300
+black,300
+silver,400
+grey,400
+bronze,500

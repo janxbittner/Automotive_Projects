@@ -1,0 +1,180 @@
+Brand;Model;Engine type;engine_capacity cm3;power kW;transmission;body;equipent_level;price euro
+Skoda;ENYAQ iV;Electric;0;132;automatic;SUV;60;40000
+Skoda;ENYAQ iV;Electric;0;150;automatic;SUV;80;11779
+Skoda;Octavia;Petrol;1000;81;manual;Liftback;Active;20963
+Skoda;Octavia;Petrol;1000;81;manual;Liftback;ambition;22500
+Skoda;Octavia;Hybrid;1000;81;automatic;Liftback;ambition;24888
+Skoda;Octavia;Petrol;1500;110;manual;Liftback;ambition;24175
+Skoda;Octavia;Hybrid;1500;110;automatic;Liftback;ambition;26538
+Skoda;Octavia;Hybrid;1500;110;automatic;Liftback;style;28750
+Skoda;Octavia;Diesel;2000;85;manual;Liftback;Active;24750
+Skoda;Octavia;Diesel;2000;85;manual;Liftback;ambition;26250
+Skoda;Octavia;Diesel;2000;85;automatic;Liftback;ambition;28250
+Skoda;Octavia;Diesel;2000;110;manual;Liftback;ambition;27750
+Skoda;Octavia;Diesel;2000;110;manual;Liftback;style;30250
+Skoda;Octavia;Diesel;2000;110;automatic;Liftback;ambition;29750
+Skoda;Octavia;Diesel;2000;110;automatic;Liftback;style;32250
+Skoda;Octavia;Petrol;1000;81;manual;combi;Active;21963
+Skoda;Octavia;Petrol;1000;81;manual;combi;ambition;23500
+Skoda;Octavia;Hybrid;1000;81;automatic;combi;ambition;25888
+Skoda;Octavia;Petrol;1500;110;manual;combi;ambition;25175
+Skoda;Octavia;Hybrid;1500;110;automatic;combi;ambition;27538
+Skoda;Octavia;Hybrid;1500;110;automatic;combi;style;29750
+Skoda;Octavia;Diesel;2000;85;manual;combi;Active;25750
+Skoda;Octavia;Diesel;2000;85;manual;combi;ambition;27250
+Skoda;Octavia;Diesel;2000;85;automatic;combi;ambition;29250
+Skoda;Octavia;Diesel;2000;110;manual;combi;ambition;28750
+Skoda;Octavia;Diesel;2000;110;manual;combi;style;31250
+Skoda;Octavia;Diesel;2000;110;automatic;combi;ambition;30750
+Skoda;Octavia;Diesel;2000;110;automatic;combi;style;33250
+Skoda;Octavia;Petrol;2000;180;manual;Liftback;RS;34750
+Skoda;Octavia;Petrol;2000;180;automatic;Liftback;RS;36750
+Skoda;Octavia;Diesel;2000;147;automatic;Liftback;RS;38300
+Skoda;Octavia;Diesel;2000;147;automatic;Liftback;RS;40750
+Skoda;Octavia;Petrol;2000;180;manual;combi;RS;35750
+Skoda;Octavia;Petrol;2000;180;automatic;combi;RS;37750
+Skoda;Octavia;Diesel;2000;147;automatic;combi;RS;39250
+Skoda;Octavia;Diesel;2000;147;automatic;combi;RS;41750
+Skoda;superb;petrol;1500;110;manual;limousine;active;25500
+Skoda;superb;petrol;1500;110;manual;limousine;ambition;27250
+Skoda;superb;petrol;1500;110;manual;limousine;style ;29500
+Skoda;superb;petrol;1500;110;manual;limousine;"LAURIN
+& KLEMENT";34750
+Skoda;superb;petrol;1500;110;automatic;limousine;active;28750
+Skoda;superb;petrol;1500;110;automatic;limousine;ambition;30250
+Skoda;superb;petrol;1500;110;automatic;limousine;style ;32500
+Skoda;superb;petrol;1500;110;automatic;limousine;"LAURIN
+& KLEMENT";37500
+Skoda;superb;petrol;2000;140;automatic;limousine;active;31000
+Skoda;superb;petrol;2000;140;automatic;limousine;ambition;32500
+Skoda;superb;petrol;2000;140;automatic;limousine;style ;34500
+Skoda;superb;petrol;2000;140;automatic;limousine;"LAURIN
+& KLEMENT";39750
+Skoda;superb;diesel;2000;110;manual;limousine;active;30500
+Skoda;superb;diesel;2000;110;manual;limousine;ambition;32000
+Skoda;superb;diesel;2000;110;manual;limousine;style ;34500
+Skoda;superb;diesel;2000;110;manual;limousine;"LAURIN
+& KLEMENT";39500
+Skoda;superb;diesel;2000;110;automatic;limousine;active;32750
+Skoda;superb;diesel;2000;110;automatic;limousine;ambition;34250
+Skoda;superb;diesel;2000;110;automatic;limousine;style ;36500
+Skoda;superb;diesel;2000;110;automatic;limousine;"LAURIN
+& KLEMENT";41750
+Skoda;superb;diesel;2000;147;automatic;limousine;ambition;35500
+Skoda;superb;diesel;2000;147;automatic;limousine;style ;37500
+Skoda;superb;diesel;2000;147;automatic;limousine;"LAURIN
+& KLEMENT";42500
+Skoda;superb;petrol;1500;110;manual;combi;active;26500
+Skoda;superb;petrol;1500;110;manual;combi;ambition;28250
+Skoda;superb;petrol;1500;110;manual;combi;style ;30500
+Skoda;superb;petrol;1500;110;manual;combi;"LAURIN
+& KLEMENT";35750
+Skoda;superb;petrol;1500;110;automatic;combi;active;29750
+Skoda;superb;petrol;1500;110;automatic;combi;ambition;31250
+Skoda;superb;petrol;1500;110;automatic;combi;style ;33500
+Skoda;superb;petrol;1500;110;automatic;combi;"LAURIN
+& KLEMENT";38500
+Skoda;superb;petrol;2000;140;automatic;combi;active;32000
+Skoda;superb;petrol;2000;140;automatic;combi;ambition;33500
+Skoda;superb;petrol;2000;140;automatic;combi;style ;35500
+Skoda;superb;petrol;2000;140;automatic;combi;"LAURIN
+& KLEMENT";40750
+Skoda;superb;diesel;2000;110;manual;combi;active;31500
+Skoda;superb;diesel;2000;110;manual;combi;ambition;33000
+Skoda;superb;diesel;2000;110;manual;combi;style ;35500
+Skoda;superb;diesel;2000;110;manual;combi;"LAURIN
+& KLEMENT";40500
+Skoda;superb;diesel;2000;110;automatic;combi;active;33750
+Skoda;superb;diesel;2000;110;automatic;combi;ambition;35250
+Skoda;superb;diesel;2000;110;automatic;combi;style ;37500
+Skoda;superb;diesel;2000;110;automatic;combi;"LAURIN
+& KLEMENT";42750
+Skoda;superb;diesel;2000;147;automatic;combi;ambition;36500
+Skoda;superb;diesel;2000;147;automatic;combi;style ;38500
+Skoda;superb;diesel;2000;147;automatic;combi;"LAURIN
+& KLEMENT";43500
+Skoda;CITIGOe iV;Electric;0;61;automatic;Hatchback;ambition;20500
+Skoda;CITIGOe iV;Electric;0;61;automatic;Hatchback;style;22500
+Skoda;Kamiq;petrol;1000;70;manual;suv;active;17250
+Skoda;Kamiq;petrol;1000;70;manual;suv;ambition;19000
+Skoda;Kamiq;petrol;1000;81;manual;suv;active;18000
+Skoda;Kamiq;petrol;1000;81;manual;suv;ambition;19750
+Skoda;Kamiq;petrol;1000;81;manual;suv;style;22000
+Skoda;Kamiq;petrol;1000;81;manual;suv;monte carlo;22500
+Skoda;Kamiq;petrol;1000;81;automatic;suv;ambition;21250
+Skoda;Kamiq;petrol;1000;81;automatic;suv;style;23500
+Skoda;Kamiq;petrol;1000;81;automatic;suv;monte carlo;24250
+Skoda;Kamiq;Petrol;1500;110;manual;SUV;ambition;21500
+Skoda;Kamiq;petrol;1500;110;manual;suv;style;23500
+Skoda;Kamiq;petrol;1500;110;manual;suv;monte carlo;24250
+Skoda;Kamiq;Petrol;1500;110;automatic;SUV;ambition;23000
+Skoda;Kamiq;petrol;1500;110;automatic;suv;style;25250
+Skoda;Kamiq;petrol;1500;110;automatic;suv;monte carlo;25750
+Skoda;Scala;Petrol;1000;70;manual;Hatchback;Active;16750
+Skoda;Scala;Petrol;1000;70;manual;Hatchback;ambition;17500
+Skoda;Scala;Petrol;1000;81;manual;Hatchback;Active;17500
+Skoda;Scala;Petrol;1000;81;manual;Hatchback;ambition;18500
+Skoda;Scala;Petrol;1000;81;manual;Hatchback;style;20500
+Skoda;Scala;Petrol;1000;81;manual;Hatchback;monte carlo;19500
+Skoda;Scala;Petrol;1000;81;automatic;Hatchback;ambition;20000
+Skoda;Scala;Petrol;1000;81;automatic;Hatchback;style;22000
+Skoda;Scala;Petrol;1000;81;automatic;Hatchback;monte carlo;23250
+Skoda;Scala;Petrol;1500;110;manual;Hatchback;ambition;20000
+Skoda;Scala;Petrol;1500;110;manual;Hatchback;style;22000
+Skoda;Scala;Petrol;1500;110;manual;Hatchback;monte carlo;23250
+Skoda;Scala;Petrol;1500;110;automatic;Hatchback;ambition;21750
+Skoda;Scala;Petrol;1500;110;automatic;Hatchback;style;23500
+Skoda;Scala;Petrol;1500;110;automatic;Hatchback;monte carlo;25000
+Skoda;Fabia;Petrol;1000;44;manual;Hatchback;ambition;12750
+Skoda;Fabia;Petrol;1000;70;manual;Hatchback;ambition;14000
+Skoda;Fabia;Petrol;1000;70;manual;Hatchback;style;15250
+Skoda;Fabia;Petrol;1000;70;manual;Hatchback;style color;16250
+Skoda;Fabia;Petrol;1000;70;manual;Hatchback;monte carlo;16250
+Skoda;Fabia;Petrol;1000;70;automatic;Hatchback;ambition;15250
+Skoda;Fabia;Petrol;1000;70;automatic;Hatchback;style;16500
+Skoda;Fabia;Petrol;1000;70;automatic;Hatchback;style color;17750
+Skoda;Fabia;Petrol;1000;70;automatic;Hatchback;monte carlo;17250
+Skoda;Fabia;Petrol;1000;44;manual;combi;ambition;13625
+Skoda;Fabia;Petrol;1000;70;manual;combi;ambition;14875
+Skoda;Fabia;Petrol;1000;70;manual;combi;style;16125
+Skoda;Fabia;Petrol;1000;70;manual;combi;style color;17125
+Skoda;Fabia;Petrol;1000;70;manual;combi;monte carlo;17125
+Skoda;Fabia;Petrol;1000;70;automatic;combi;ambition;16125
+Skoda;Fabia;Petrol;1000;70;automatic;combi;style;17375
+Skoda;Fabia;Petrol;1000;70;automatic;combi;style color;18625
+Skoda;Fabia;Petrol;1000;70;automatic;combi;monte carlo;18125
+Skoda;Karoq;Petrol;1000;81;manual;suv;ambition;23750
+Skoda;Karoq;Petrol;1000;81;manual;suv;style;25250
+Skoda;Karoq;Petrol;1500;110;manual;suv;ambition;25750
+Skoda;Karoq;Petrol;1500;110;manual;suv;style;27250
+Skoda;Karoq;Petrol;1500;110;manual;suv;sportline;29750
+Skoda;Karoq;Petrol;1500;110;automatic;suv;ambition;28000
+Skoda;Karoq;Petrol;1500;110;automatic;suv;style;29250
+Skoda;Karoq;Petrol;1500;110;automatic;suv;sportline;32000
+Skoda;Karoq;diesel;2000;85;manual;suv;ambition;27500
+Skoda;Karoq;diesel;2000;85;manual;suv;style;28750
+Skoda;Karoq;diesel;2000;85;automatic;suv;ambition;29500
+Skoda;Karoq;diesel;2000;85;automatic;suv;style;31000
+Skoda;Karoq;diesel;2000;110;manual;suv;ambition;29500
+Skoda;Karoq;diesel;2000;110;manual;suv;style;30750
+Skoda;Karoq;diesel;2000;110;manual;suv;sportline;33500
+Skoda;Karoq;diesel;2000;110;automatic;suv;ambition;34000
+Skoda;Karoq;diesel;2000;110;automatic;suv;style;35500
+Skoda;Karoq;diesel;2000;110;automatic;suv;sportline;38000
+Skoda;Kodiaq;petrol;1500;110;manual;suv;ambition;26750
+Skoda;Kodiaq;petrol;1500;110;manual;suv;style;29500
+Skoda;Kodiaq;petrol;1500;110;manual;suv;sportline;32250
+Skoda;Kodiaq;petrol;1500;110;automatic;suv;ambition;30250
+Skoda;Kodiaq;petrol;1500;110;automatic;suv;style;33000
+Skoda;Kodiaq;petrol;1500;110;automatic;suv;sportline;35750
+Skoda;Kodiaq;petrol;1500;110;automatic;suv;LAURIN & KLEMENT;40250
+Skoda;Kodiaq;petrol;2000;140;automatic;suv;style;37750
+Skoda;Kodiaq;petrol;2000;140;automatic;suv;sportline;40750
+Skoda;Kodiaq;petrol;2000;140;automatic;suv;LAURIN & KLEMENT;44750
+Skoda;Kodiaq;diesel;2000;110;automatic;suv;ambition;33750
+Skoda;Kodiaq;diesel;2000;110;automatic;suv;style;36500
+Skoda;Kodiaq;diesel;2000;110;automatic;suv;sportline;39250
+Skoda;Kodiaq;diesel;2000;110;automatic;suv;LAURIN & KLEMENT;43750
+Skoda;Kodiaq;diesel;2000;147;automatic;suv;style;40750
+Skoda;Kodiaq;diesel;2000;147;automatic;suv;sportline;43500
+Skoda;Kodiaq;diesel;2000;147;automatic;suv;LAURIN & KLEMENT;47750
